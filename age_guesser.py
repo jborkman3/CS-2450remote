@@ -9,7 +9,8 @@ response = input("Are you between 20 and 30 years of age? (y/n): ").lower()
 if response == 'y':
     age = random.randint(20, 30)
 else:
-    age = random.randint(15, 40)
+    valid_ages = [a for a in range(15, 19) if a < 20 or a for a in range(31, 40) if a > 30]
+    age = random.choice(valid_ages)
 
 response = input(f"Are you {age} years old? (y/n): ").lower()
 
