@@ -6,3 +6,6 @@
 ex: A freind makes a post and you get a notification that shows someone has posted. 
 ex: When you click on a product in amazon the signal is sent to the amazon warehouse database to check product availability or similar items.
 -Went over synchronous vs asynchronous patterns in databases. (need to go over for understanding).
+
+09/29
+-Today we are presenting on our project and what we plan to implement. 
