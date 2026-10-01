@@ -7,5 +7,12 @@ ex: A freind makes a post and you get a notification that shows someone has post
 ex: When you click on a product in amazon the signal is sent to the amazon warehouse database to check product availability or similar items.
 -Went over synchronous vs asynchronous patterns in databases. (need to go over for understanding).
 
+09/20
+-Went over how to make impactful presentations. Certain colors and designs for presentation are important. Make sure to relate to the audience and break down the slides into different demographics (investors, users, engineers) so each will understand the basic layout and some more detailed aspects. 
+
 09/29
 -Today we are presenting on our project and what we plan to implement. 
+
+10/1
+
+-Finally getting caught up in some projects. Discussed 
