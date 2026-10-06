@@ -15,4 +15,7 @@ ex: When you click on a product in amazon the signal is sent to the amazon wareh
 
 10/1
 
--Finally getting caught up in some projects. Discussed 
+-Finally getting caught up in some projects. Discussed Scrum management where we take our features from issues tab in github and create a board of progress with notations that everyone can see. 
+
+10/5 
+-Today we're going over implementation and bringing everything we've gone over together to begin building our project. We need more teamwork and communication. 
