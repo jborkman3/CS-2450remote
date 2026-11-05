@@ -23,4 +23,7 @@ ex: When you click on a product in amazon the signal is sent to the amazon wareh
 10/12
 -created new branch called feature/login-fix waiting for others to test it and possibly merge it. 
 I am beginning to understand how to use branches and create pull requests/merge good code. I learned how to pull other peoples branches and test to see if it works. 
-Link to the pull request: https://github.com/utahtech-cs2450/f26-TeamName/pull/24
+Link to the pull request: https://github.com/utahtech-cs2450/f26-TeamName/pull/24 * update this was my agentic programming assign. 
+
+-11/5
+Worked together as a team to fix python bug running youface. Added a downvote button that tracks dislikes on user posts. Also shows up on user profile. 
