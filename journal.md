@@ -27,3 +27,6 @@ Link to the pull request: https://github.com/utahtech-cs2450/f26-TeamName/pull/2
 
 -11/5
 Worked together as a team to fix python bug running youface. Added a downvote button that tracks dislikes on user posts. Also shows up on user profile. 
+
+-11/19
+Today we are planning on adding some updates to our final presentation. We aren't completely done with our social media site. We are planning on adding some more UI features mostly, to make it look more appeasing to the eyes and not so archaic. 
